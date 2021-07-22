@@ -1,0 +1,17 @@
+{
+  "name": "crewbot",
+  "version": "0.0.1",
+  "description": "A discord bot for a group in in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0"
+  }
+}
