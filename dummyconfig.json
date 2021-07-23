@@ -1,0 +1,5 @@
+{
+    "//":"This is a dummy config file for you to use. Remove 'token-goes-here, and this line, and you should be good to go.",
+    "prefix" : "!",
+    "token" : "token-goes-here"
+}
