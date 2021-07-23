@@ -18,7 +18,7 @@ client.on('message', message => {
 		message.channel.send('Here are the commands I take:');
 		message.channel.send('!ping: Pings me and if you get a response, im up. If not, im down');
 		message.channel.send('!beep: Beep Boop, I am a ROBOT. Pleased to meet you, HUMAN');
-		message.channel.send('!Help: Displays this message');
+		message.channel.send('!help: Displays this message');
 	}
 	else if (message.content === `${prefix}github`) {
 		message.channel.send('Here is my GitHub page!')
