@@ -11,8 +11,8 @@ client.login(token);
 
 client.on('message', message => {
 	if (message.content === `${prefix}ping`) {
-		message.channel.send('Pong.');
+		message.channel.send('Pong! :ping_pong:');
 	} else if (message.content === `${prefix}beep`) {
-		message.channel.send('Boop.');
+		message.channel.send('Boop! :sdkrobot:');
 	}
 });
