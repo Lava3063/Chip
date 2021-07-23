@@ -1,4 +1,3 @@
-
 const mySecret = process.env['TOKEN']
 const Discord = require('discord.js');
 const client = new Discord.Client();
